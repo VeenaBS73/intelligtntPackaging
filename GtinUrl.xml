@@ -8,4 +8,8 @@
     <gtin>12345678</gtin>
     <url>https://www.olay.ca/fr-ca</url>
   </urls>
+  <urls>
+    <gtin>123456789</gtin>
+    <url>https://www.metamucil.com/en-us/products/fiber-powders</url>
+  </urls>
 </redirection_tags>
